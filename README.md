@@ -1,7 +1,7 @@
 # Calme
 <dl>
   <dt>メールアドレス</dt>
-  <dd>actedsauce@gmail.com</dd>
+  <dd><a>actedsauce@gmail.com</a></dd>
   <dt>X</dt>
-  <dd>https://x.com/calme2147</dd>
+  <dd><a>https://x.com/calme2147</a></dd>
 </dl>
